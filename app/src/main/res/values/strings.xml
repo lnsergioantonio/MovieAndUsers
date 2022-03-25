@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MovieAndUsers</string>
+    <string name="title_location_details">Location details</string>
+    <string name="label_free">Gratis</string>
+    <string name="label_inexpensive">Barato</string>
+    <string name="label_moderate">Moderado</string>
+    <string name="label_expensive">Caro</string>
+    <string name="label_very_expensive">Muy caro</string>
+    <string name="none">N/A</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="users">Users</string>
+    <string name="map">Map</string>
+    <string name="title_activity_add_user">AddUserActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="save_user">Save user</string>
+    <string name="hint_name">Full name <font color='#FF0000'>*</font></string>
+    <string name="hint_phone">Mobile number <font color='#FF0000'>*</font></string>
+    <string name="hint_email">Email <font color='#FF0000'>*</font></string>
+    <string name="hint_address">Address <font color='#FF0000'>*</font></string>
+    <string name="field_invalid">Campo invalido</string>
+</resources>
